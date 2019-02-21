@@ -2,3 +2,12 @@ milk
 butter
 eggs
 broccoli
+salsa
+chocolate
+coffee
+tea
+apples
+cookies
+chicken
+pasta
+almonds
